@@ -5,7 +5,7 @@ description: Open an in-app browser window.
 
 # cordova-plugin-inappbrowser-with-share-button-ios
 
-This repository is a fork of [this plugin](https://github.com/joehui/cordova-plugin-inappbrowser-with-share-button).
+Repository is a fork of [this plugin](https://github.com/joehui/cordova-plugin-inappbrowser-with-share-button).
 
 This plugin just add the share button on the bottom of the toolbar. You can get the share button event by giving the 
 code as per given below. 
